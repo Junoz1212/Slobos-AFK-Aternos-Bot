@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SkullValeSMP.aternos.me",
+    "ip": "SkullValeSMP.aternos.me:31969",
     "port": 31969,
     "version": "",
     "try-creative": false
